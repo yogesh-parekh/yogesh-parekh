@@ -30,7 +30,7 @@ I'm a developer who believes that code, when written with clarity and purpose, c
 ### 📫 Let’s Connect
 - 📧 Email: yogesh98parekh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/engineered-by-yogesh/](https://linkedin.com/in/engineered-by-yogesh/)
-- 🌐 Portfolio (if any): [[yourwebsite.com](https://my-portfolio-yogesh-parekhs-projects.vercel.app/about)](#)
+- 🌐 Portfolio (if any): [[My Techfolio](https://my-portfolio-yogesh-parekhs-projects.vercel.app/about)]
 
 ---
 
