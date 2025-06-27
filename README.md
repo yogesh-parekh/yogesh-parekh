@@ -14,14 +14,6 @@
 
 ---
 
-### 🛠️ Projects & Contributions
-Here are some things I've been working on:
-- 🔧 [ProjectName](#) – Brief 1-liner on what it does (personal or open source)
-- 📊 [ProjectName](#) – Maybe an AI/ML side project
-- 📁 [GitHub Repositories](https://github.com/yourusername?tab=repositories) – Explore more
-
----
-
 ### ✨ A Bit About Me
 I'm a developer who believes that code, when written with clarity and purpose, can solve more than just technical problems. Whether it's through Python scripts, AWS automation, or spiritual discipline from the **Shrimad Bhagavad Gita**, I'm always striving to **build with intention**.
 
@@ -30,7 +22,7 @@ I'm a developer who believes that code, when written with clarity and purpose, c
 ### 📫 Let’s Connect
 - 📧 Email: yogesh98parekh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/engineered-by-yogesh/](https://linkedin.com/in/engineered-by-yogesh/)
-- 🌐 Portfolio (if any): [[My Techfolio](https://my-portfolio-yogesh-parekhs-projects.vercel.app/about)]
+- 🌐 Portfolio: [My Techfolio](https://my-portfolio-yogesh-parekhs-projects.vercel.app/about)
 
 ---
 
